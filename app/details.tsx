@@ -16,7 +16,7 @@ const newest = [
     id: "1",
     title: "Yves Saint Laurent",
     subtitle: "Suzy Menkes",
-    image: require("../assets/pic4.png"),
+    image: require("../assets/4.png"),
     rating: 4.0,
     description:
       "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion.",
@@ -25,7 +25,7 @@ const newest = [
     id: "2",
     title: "The Book of Signs",
     subtitle: "Rudolf Koch",
-    image: require("../assets/pic5.png"),
+    image: require("../assets/5.png"),
     rating: 3.0,
     description:
       "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion.",
@@ -34,7 +34,7 @@ const newest = [
     id: "3",
     title: "Stitched Up",
     subtitle: "Tansy E. Hoskins",
-    image: require("../assets/pic6.png"),
+    image: require("../assets/6.png"),
     rating: 3.0,
     description:
       "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion.",
